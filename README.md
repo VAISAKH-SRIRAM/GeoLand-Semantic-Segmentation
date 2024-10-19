@@ -73,7 +73,7 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
  
  1. Clone the repository:
  ```shell
- git clone https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.git
+ git clone https://github.com/VAISAKH-SRIRAM/GeoLand-Semantic-Segmentation.git
  ```
  2. Change to the project directory:
  ```shell
@@ -105,11 +105,10 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
  
  1. Clone the repository:
  ```shell
- git clone https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.git
- ```
+ git clone https://github.com/VAISAKH-SRIRAM/GeoLand-Semantic-Segmentation.git
  2. Change to the project directory:
  ```shell
- cd Land-Cover-Semantic-Segmentation-PyTorch
+ cd GeoLand-Semantic-Segmentation.git
  ```
  3. Setting up programming environment to run the project:
  
