@@ -163,25 +163,3 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
 Project is distributed under [MIT License](https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch/blob/main/LICENSE)
 
 ---
-
-## 👏 Acknowledgements <a name="acknowledgements"></a>
- - [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch)
- ```
- @misc{Iakubovskii:2019,
-  Author = {Pavel Iakubovskii},
-  Title = {Segmentation Models Pytorch},
-  Year = {2019},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/qubvel/segmentation_models.pytorch}}
- }
- ```
- - [LandCover.ai](https://landcover.ai.linuxpolska.com/)
- - [bnsreenu/python_for_microscopists](https://github.com/bnsreenu/python_for_microscopists)
- - [leonardo.ai](https://leonardo.ai)
-
-<p align="right">
- <a href="#top"><b>🔝 Return </b></a>
-</p>
-
----
