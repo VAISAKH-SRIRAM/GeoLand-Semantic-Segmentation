@@ -145,20 +145,6 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
 
 ----
 
-## 📝 Citing <a name="citing"></a>
-```
-@misc{Souvik2023,
-  Author = {Souvik Majumder},
-  Title = {Land Cover Semantic Segmentation PyTorch},
-  Year = {2023},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch}}
-}
-```
-
-----
-
 ## 🛡️ License <a name="license"></a>
 Project is distributed under [MIT License](https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch/blob/main/LICENSE)
 
