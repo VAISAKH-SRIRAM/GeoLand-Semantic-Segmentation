@@ -1,5 +1,4 @@
 <div align="center">
-![image](https://github.com/user-attachments/assets/280c5755-593a-411f-be95-47d27a657474)
 
 
 <h1 align="center"><strong> GeoLand-Semantic-Segmentation :<h6 align="center">An end-to-end Image Segmentation (CV) project</h6></strong></h1>
