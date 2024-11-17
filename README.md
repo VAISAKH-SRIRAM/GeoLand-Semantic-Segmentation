@@ -38,25 +38,19 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
   1. Training the model on <a href="https://landcover.ai.linuxpolska.com/" target="_blank">LandCover.ai dataset</a> with '<b>train_classes</b>': <b>['background', 'building', 'woodland', 'water']</b>...
  </p>
  <p align="center">
-  <img width="60%">
-  ![image](https://github.com/user-attachments/assets/5349d182-fbc3-4e97-bb24-c9af4f2231fb)
-
+  <img width="60%" src="https://github.com/VAISAKH-SRIRAM/GeoLand-Semantic-Segmentation/blob/main/assets/training.png">
  </p>
  <p>
   2. Testing the trained model for all the classes used to train the model, i.e. '<b>test_classes</b>': <b>['background', 'building', 'woodland', 'water']</b>...
  </p>
  <p align="center">
-  <img width="90%">
-  ![image](https://github.com/user-attachments/assets/421512ba-ffd3-4921-8e54-bb94775d29a3)
-
+  <img width="90%" src="https://github.com/VAISAKH-SRIRAM/GeoLand-Semantic-Segmentation/blob/main/assets/all_classes.png">
  </p>
  <p>
   3. Testing the trained model for selective classes as per user input, i.e. '<b>test_classes</b>': <b>['background', 'building', 'water']</b>...
  </p>
  <p align="center">
-  <img width="90%">
-  ![image](https://github.com/user-attachments/assets/8c0200af-5432-4d9f-b027-eb86ba231811)
-
+  <img width="90%" src="https://github.com/VAISAKH-SRIRAM/GeoLand-Semantic-Segmentation/blob/main/assets/select_classes.png">
  </p>
 
 ---
