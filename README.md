@@ -143,6 +143,6 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
 ----
 
 ## 🛡️ License <a name="license"></a>
-Project is distributed under [MIT License](https://github.comVAISAKH-SRIRAM/GeoLand-Semantic-Segmentation/blob/main/LICENSE)
+Project is distributed under [MIT License](https://github.com/VAISAKH-SRIRAM/GeoLand-Semantic-Segmentation/blob/main/LICENSE)
 
 ---
